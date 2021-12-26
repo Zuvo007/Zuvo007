@@ -56,5 +56,5 @@
 
 [twitter]: https://twitter.com/SUBHABR37003280
 
-[gmail]: duttasubhabrata123@gmail.com
+[gmail]: (mailto:duttasubhabrata123@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 [linkedin]: https://www.linkedin.com/in/subhabrata-dutta-88aa57195/
